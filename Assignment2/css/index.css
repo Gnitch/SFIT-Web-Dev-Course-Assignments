@@ -1,0 +1,69 @@
+.search input {
+    color: #F8F8F8;
+    background-image: url("https://img.icons8.com/ios-glyphs/20/000000/search.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    background-color: 	#F8F8F8;
+    padding: 12px 20px 12px 40px;
+    border: none;
+    border-radius: 0px;    
+    border-bottom: 1px solid gray;
+    overflow: hidden;
+}
+
+i {
+    color : darkred;
+}
+
+body {
+    background-color: #3f3f3f !important;
+}
+
+p.nav_link {
+    margin: 2px;
+}
+
+h1 {
+    font-family: 'Italianno', cursive;
+    font-size: 120px !important;
+}
+
+.column {
+    background-color:	#E8E8E8;
+    height: 450px;
+    border-radius: 8px;
+}
+
+.auth {
+    background-color:	#E8E8E8;
+    height: 225px;
+    border-radius: 8px;    
+}
+
+img {
+    height: 450px;
+}
+
+.brands {
+    overflow: scroll;
+}
+h2 {
+    font-family: 'Italianno', cursive;
+    font-size: 45px !important;
+}
+
+h5 {
+    background-color: #F8F8F8;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.fa-user {
+    color: black;
+}
+
+.fa-lock {
+    color: black;
+}
